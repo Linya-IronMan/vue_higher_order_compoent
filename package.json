@@ -1,0 +1,20 @@
+{
+  "name": "vue_higher_order_compoent",
+  "version": "1.0.0",
+  "description": "在vue2中使用高阶组件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Linya-IronMan/vue_higher_order_compoent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Linya-IronMan/vue_higher_order_compoent/issues"
+  },
+  "homepage": "https://github.com/Linya-IronMan/vue_higher_order_compoent#readme"
+}
